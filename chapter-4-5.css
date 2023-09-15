@@ -1,0 +1,21 @@
+body{
+    font-family: American Typewriter, serif;
+    max-width: 960px;  
+    font-size: 16px;
+    line-height:1.4;
+    }
+
+h1{
+    color:darkred;
+}
+
+h2{
+    color:darkgoldenrod;
+}
+figure{
+    padding: 5%;
+    background-color: darkred;
+    font-size: 80%;
+    font-family: sans-serif;
+    color:aliceblue;
+}
